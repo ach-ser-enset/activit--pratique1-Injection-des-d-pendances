@@ -30,7 +30,7 @@ How to Use
 Clone the repository:
 
 
-git clone https://github.com/yourusername/dependency-injection-exercise.git
+git clone https://github.com/ach-ser-enset/activit--pratique1-Injection-des-d-pendances
 Import the project into your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
 
 To see the solution, refer to the Main class (or similar entry point) for examples of dependency injection methods.
